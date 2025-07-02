@@ -1,5 +1,5 @@
-# 💫 About Me:
-⚙️ Codduo official github page.
+# ⚙️ Codduo official github page:
+👾 Contact us in https://codduo.vercel.app
 
 
 ## 🌐 Socials:
